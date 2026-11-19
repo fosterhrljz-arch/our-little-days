@@ -1,0 +1,22 @@
+[
+  {
+    "height": 1867,
+    "source": "https://unsplash.com/photos/white-sand-beach-with-turquoise-water-and-blue-sky-BxFP4eDk8F4",
+    "file": "seaside-hero.jpg",
+    "width": 2800,
+    "license": "https://unsplash.com/license",
+    "sha256": "d558affb5d5d3402ad1baab429dcfbd39388ad7fd8a4b2dbb61a0133c4ad7d02",
+    "verified": "2026-11-07",
+    "creator": "Tunafish"
+  },
+  {
+    "height": 2100,
+    "source": "https://unsplash.com/photos/a-boardwalk-leading-to-a-beach-BxhJRfR79fo",
+    "file": "coastal-walk.jpg",
+    "width": 2800,
+    "license": "https://unsplash.com/license",
+    "sha256": "ebee97bbcd1a98fdeffe2a8804e85222fa3c224ee610b03e310bc915eb0dc13a",
+    "verified": "2026-11-07",
+    "creator": "Tunafish"
+  }
+]

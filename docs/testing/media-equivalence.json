@@ -1,0 +1,13 @@
+{
+  "result": "passed",
+  "photos": 6,
+  "change": "JavaScript whitespace only; runtime data URLs and decoded PNG bytes unchanged",
+  "decoded_sha256": {
+    "hero": "f5a1e135ffb837153b5e097180c6ae9ba4ceb51bc2243984ebb08d6b016f604d",
+    "crossing": "25e1e3692cd99812b0c643476f76d92653a9f2d4bf3c969e98d39bd84e6b61b5",
+    "sparklers": "6914d774becefdb8708edf1b429ff1e93c1d63a81be3fc53907e8316f8780594",
+    "hydrangeas": "6d77976791283876de4bffd7cfe2d445904c9cdd75587c7c1de7391bb9338d46",
+    "shore": "6c86dad37c12527df2e6ad134fef9f078d86f2c581021e0bc7da5ce18f772aca",
+    "sky": "dbaa5569380dcdeb6afbea7caa592bc764d65b893d1e5da064e91c2bb75b29c3"
+  }
+}

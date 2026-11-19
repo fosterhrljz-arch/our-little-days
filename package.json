@@ -1,0 +1,14 @@
+{
+  "name": "our-little-days",
+  "version": "4.0.0",
+  "private": true,
+  "description": "A private, offline memory book for two. No build step or runtime dependencies.",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs tests/book.test.cjs tests/anniversary.test.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "test:book": "node tests/book-browser.cjs",
+    "test:anniversaries": "node tests/anniversary-browser.cjs",
+    "test:landing": "node tests/landing-browser.cjs"
+  },
+  "engines": { "node": ">=20" }
+}

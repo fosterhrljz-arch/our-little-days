@@ -1,0 +1,25 @@
+{
+  "page_count": 3,
+  "zip_crc": "passed",
+  "pdf_parse_and_render": "passed",
+  "pages": [
+    {
+      "page": 1,
+      "pixels": "2400 x 3200",
+      "preview_png_pdf": "pixel-identical",
+      "rgb_sha256": "3821bb28aeb387f021700f2ac3fba6bfc0cecce21390c0709a421e478596d7a7"
+    },
+    {
+      "page": 2,
+      "pixels": "2400 x 3200",
+      "preview_png_pdf": "pixel-identical",
+      "rgb_sha256": "f989336ab69a95d96ebf4df81ab44e2e0bf61fda7f391e538a91b3f59516a4a9"
+    },
+    {
+      "page": 3,
+      "pixels": "2400 x 3200",
+      "preview_png_pdf": "pixel-identical",
+      "rgb_sha256": "83480e48e7971e9dfa644310709d27cb6a3b79e7cd182b8d4153015676c185e9"
+    }
+  ]
+}

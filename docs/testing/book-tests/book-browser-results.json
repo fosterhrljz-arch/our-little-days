@@ -1,0 +1,26 @@
+{
+  "count": 18,
+  "passed": [
+    "selection includes saved anniversaries and allows explicit item ordering",
+    "three template choices generate distinct editable page styles",
+    "click-to-edit changes existing page text without altering source memories",
+    "font size, color, alignment, and typeface controls persist",
+    "add a text box at a chosen position, then drag and resize it with pointer handles",
+    "text deletion and undo/redo restore the same editable element",
+    "an upload stays on the chosen page even when the user switches pages during processing",
+    "replace, move, resize, and delete an inserted photo without changing another page",
+    "page navigation, reordering, adding, and deleting pages participate in undo",
+    "unfinished book and current page survive a full browser restart",
+    "project backup and restore include the unfinished book and page-only uploads",
+    "source memory editing and deletion do not rewrite existing book pages",
+    "page text remains literal and overflow is reported before export",
+    "keyboard Undo and Redo work during direct text editing",
+    "all edited pages export as a multi-page PDF and numbered high-resolution PNGs",
+    "editor fits tablet and phone screens with working touch-sized controls",
+    "failed autosave stays visibly unsaved, blocks navigation, and offers a draft backup",
+    "no app runtime errors or external requests occurred while offline"
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "offline": true
+}

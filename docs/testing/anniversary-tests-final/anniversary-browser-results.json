@@ -1,0 +1,24 @@
+{
+  "count": 16,
+  "passed": [
+    "anniversary form explains supported formats and rejects HEIC/HEIF without adding photos",
+    "create an anniversary with JPEG, PNG, WebP and a note without creating a memory",
+    "anniversary gallery shows every attachment, and reordering or removing can be cancelled",
+    "relationship anniversary accepts attachments and keeps them after editing Settings",
+    "anniversary list and upload form remain usable from 320px to desktop",
+    "selecting the anniversary generates one page per photo with its date and note",
+    "edit anniversary page text, undo/redo, and move its photo without changing the saved anniversary",
+    "additional book photo is inserted only on the chosen page and can be undone",
+    "photos, notes, edited pages and active page survive a full browser restart",
+    "all anniversary images decode and all exported text fits its page boxes",
+    "edited anniversary collection downloads as complete PDF and high-resolution PNG pages",
+    "portable backup and restore preserve custom and relationship photos and edited book pages",
+    "invalid anniversary photo in a backup is rejected before replacing saved data",
+    "editing and removing anniversary attachments does not overwrite existing edited book pages",
+    "legacy V3 backup restores date-only anniversaries and existing edited pages intact",
+    "offline workflow has no runtime errors or external requests"
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "offline": true
+}

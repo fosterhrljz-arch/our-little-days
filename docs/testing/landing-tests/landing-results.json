@@ -1,0 +1,21 @@
+{
+  "count": 13,
+  "passed": [
+    "landing opens directly offline without opening or writing personal project data",
+    "licensed hero is a separate bundled photograph, distinct from every demo image",
+    "section navigation scrolls each heading below the sticky header",
+    "every primary and feature action opens the correct real app section",
+    "app sidebar and mobile Settings provide working return paths to the landing page",
+    "leaving the editor for the landing page flushes the latest text edit and preserves the draft",
+    "three style controls change the illustrative preview without changing the saved book",
+    "failed book saves block the new landing-page navigation and keep the edit recoverable",
+    "landing layouts and navigation work at desktop, tablet, and small-phone widths",
+    "keyboard navigation, style selection, and offline photo credits are functional",
+    "reduced motion disables entrance, scroll, and reveal movement; normal reveals finish",
+    "landing content and native links remain usable when JavaScript is disabled",
+    "no external requests, script errors, or console errors occur during landing and app navigation"
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "offline": true
+}

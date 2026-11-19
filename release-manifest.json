@@ -1,0 +1,243 @@
+{
+  "file_count": 47,
+  "zip_sha256": "68a3dc83e95decd0780e039b7572a44018705f1daa8fabda7a182b938a78865d",
+  "zip_crc": "passed",
+  "archive_source_byte_comparison": "passed",
+  "files": [
+    {
+      "path": "assets/icon.svg",
+      "bytes": 529,
+      "sha256": "6855d2ca7ad03fc73386dc5a0714b89975e283dc288f9a89a37ff4976ef2a8e6"
+    },
+    {
+      "path": "assets/landing/coastal-walk.jpg",
+      "bytes": 700859,
+      "sha256": "ebee97bbcd1a98fdeffe2a8804e85222fa3c224ee610b03e310bc915eb0dc13a"
+    },
+    {
+      "path": "assets/landing/CREDITS.md",
+      "bytes": 2018,
+      "sha256": "f60b0e5139b36d0bdd9a1c1e88fbbf0b2ef0ac0d6bb0dc3a8faec0f6cc86838d"
+    },
+    {
+      "path": "assets/landing/manifest.json",
+      "bytes": 751,
+      "sha256": "9532bf3beafc67b4bfe89741ef262c9e0306e934974941c2433892e1a2d1dcef"
+    },
+    {
+      "path": "assets/landing/seaside-hero.jpg",
+      "bytes": 549739,
+      "sha256": "d558affb5d5d3402ad1baab429dcfbd39388ad7fd8a4b2dbb61a0133c4ad7d02"
+    },
+    {
+      "path": "assets/media.js",
+      "bytes": 16579745,
+      "sha256": "a75faac21d9f44608f32bcde6d6ef0520aea7526edeba038304e934697600dca"
+    },
+    {
+      "path": "book.css",
+      "bytes": 14578,
+      "sha256": "8efd0d8062adfca8fac0ec174125c062046c0ae676d80b3a32e7f22fd447d24c"
+    },
+    {
+      "path": "docs/ASSETS.md",
+      "bytes": 4397,
+      "sha256": "cfaba7d065baf3db91ba22a80f535d5ffc9b2df755f39dc3df26dece2eba22c9"
+    },
+    {
+      "path": "docs/DESIGN.md",
+      "bytes": 6106,
+      "sha256": "a1bc05494072a4b0df9e83e346ea3dd95360f3683498d5a7c53b48605cf5589f"
+    },
+    {
+      "path": "docs/LANDING.md",
+      "bytes": 5208,
+      "sha256": "c8295bcaa75f789ffd46fd1e82e9abc56d725275f709dac6fbf22d0dbc75a55d"
+    },
+    {
+      "path": "docs/MEMORY-BOOK.md",
+      "bytes": 4299,
+      "sha256": "fe2bfbbcf0315db7722d009d5b338f764431a64efa9d336fb476c6002783dc6d"
+    },
+    {
+      "path": "docs/screenshots/anniversaries.png",
+      "bytes": 222065,
+      "sha256": "b1d070d3f5e0aeb4d1d71d2a1a4d4e88fcb7e96d16333269dcf04fec7030b986"
+    },
+    {
+      "path": "docs/screenshots/home.png",
+      "bytes": 1452640,
+      "sha256": "c55d84ddd3641e15e275a7bcb1e07ea8c2bd3b4b6f4f80ecac1cf49ce67ce999"
+    },
+    {
+      "path": "docs/screenshots/memory-book.png",
+      "bytes": 293433,
+      "sha256": "25c81d24737e80c94c7a76519977b58f793a0088b655dbdd84c459a883c5339d"
+    },
+    {
+      "path": "docs/testing/anniversary-tests-final/anniversary-browser-results.json",
+      "bytes": 1527,
+      "sha256": "97a2289d886f786cd7d044aaab22929571f85d97d635a4e5d293f457bf3c69b9"
+    },
+    {
+      "path": "docs/testing/anniversary-tests-final/content-verification.json",
+      "bytes": 988,
+      "sha256": "dd55427b1364fab5caba6aa7f159f21d4156037b5b9d23b39e9b4246e61e3a8b"
+    },
+    {
+      "path": "docs/testing/anniversary-tests-final/export-verification.json",
+      "bytes": 897,
+      "sha256": "2462173b42e031b4b3ef1addcd44f189b254ca62bcd05f5c35a03e3bec479ca6"
+    },
+    {
+      "path": "docs/testing/app-tests/browser-results.json",
+      "bytes": 1675,
+      "sha256": "5031b8a72a08581c0d2a954151c2ad571cea3e20092a174e901ab88711e64647"
+    },
+    {
+      "path": "docs/testing/book-tests/book-browser-results.json",
+      "bytes": 1536,
+      "sha256": "dbf6f9fd61455a0407efbf8261a3cae70dbdfac073c659517a7b2d249f7bcf4c"
+    },
+    {
+      "path": "docs/testing/book-tests/export-verification.json",
+      "bytes": 699,
+      "sha256": "94a4233a95797c3eeae426602d2a7c44ba3bddca249f4c39a5783dce437b5dc2"
+    },
+    {
+      "path": "docs/testing/landing-tests/landing-results.json",
+      "bytes": 1258,
+      "sha256": "bc1737d28f988c7eef7c80134e0fb530e55486fc3b0194815f2645aaf9ba9a47"
+    },
+    {
+      "path": "docs/testing/media-equivalence.json",
+      "bytes": 654,
+      "sha256": "0764793370e9ede141bd4724b68054d0b9e5646803a67832296822f12538314c"
+    },
+    {
+      "path": "docs/testing/unit-tests.txt",
+      "bytes": 4303,
+      "sha256": "2db348234978efe80cf3640d5085caddec5650f3c45360be68a0c9d88bb577f4"
+    },
+    {
+      "path": "docs/USER-GUIDE.md",
+      "bytes": 23811,
+      "sha256": "bc59871db15cdfd359c201c6bb550bdd3bfb80d7b8897af39fa210d2d3372aa4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2130,
+      "sha256": "68ad7e7b8af7a0b12d9a11ef8bdfb39113b60f1679d6dcb70749391f37f3c743"
+    },
+    {
+      "path": "js/app.js",
+      "bytes": 31946,
+      "sha256": "3f0b8dbb6b7518c414a8895ac78fb0bca46354cb95ea856f26d1b787f738fdff"
+    },
+    {
+      "path": "js/book-editor.js",
+      "bytes": 34873,
+      "sha256": "ef28768ad416942e0001c4a7ffb0eb14ad3f03d273b1bdae91d0f1e9e6797a6b"
+    },
+    {
+      "path": "js/book-export.js",
+      "bytes": 5177,
+      "sha256": "78ed2f1455b1a415d57821c9177a68dd043b515f26f0aa2a366eacccfe176d24"
+    },
+    {
+      "path": "js/book-model.js",
+      "bytes": 12438,
+      "sha256": "df8b0a18c03bc720d0d4c8b744423d5593cc2727a85d84895470746eafe7d723"
+    },
+    {
+      "path": "js/book-render.js",
+      "bytes": 3946,
+      "sha256": "0966b73b16de6af9564be2ef40712f176a5608f18e1d404144c20cfd238e86ec"
+    },
+    {
+      "path": "js/core.js",
+      "bytes": 9305,
+      "sha256": "3b079c3e4514eef02cd2054178d759aa8bae8913c6e2174773aeb0d8a7318162"
+    },
+    {
+      "path": "js/images.js",
+      "bytes": 2583,
+      "sha256": "7a97af200e836c0970841ea58130c67ce7b59add0cf91d9319c812a09f55b413"
+    },
+    {
+      "path": "js/landing.js",
+      "bytes": 2141,
+      "sha256": "d00aba0f8a0da260998b2ecb2b74a4902bde3f7555efce70373aaffa8908902c"
+    },
+    {
+      "path": "js/storage.js",
+      "bytes": 2102,
+      "sha256": "365803cdc608b7cdd6d173859d42255f797d75103f56545f4219b966551f3822"
+    },
+    {
+      "path": "landing.css",
+      "bytes": 15242,
+      "sha256": "7632ff012fa24c025144ab7ceb9cfdc3e9ba4b50fa65fb8d6f37e9fbdd81a0ed"
+    },
+    {
+      "path": "landing.html",
+      "bytes": 8784,
+      "sha256": "a5f8063fd35ac8138f242fcfd6e10b376f634af233ed107344c632ee8f41ef18"
+    },
+    {
+      "path": "package.json",
+      "bytes": 544,
+      "sha256": "6613f20eba599f801e8d28d0aea47c3f9be16feffe330bed1dfe56d75cc17671"
+    },
+    {
+      "path": "README.md",
+      "bytes": 17970,
+      "sha256": "074066b3864224ffc01de8ed6fcedfcd907f766f9d276162092ff06db7613843"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 22885,
+      "sha256": "95fbff0a773222094754dfd92e250584877d58959bfa596e33f9d4ae1c627da7"
+    },
+    {
+      "path": "tests/anniversary-browser.cjs",
+      "bytes": 19747,
+      "sha256": "f709db04dba0c4d3880992f46d09574bb1f10fd169316d77b55e97bdd0b70480"
+    },
+    {
+      "path": "tests/anniversary.test.cjs",
+      "bytes": 4536,
+      "sha256": "a431b41c242bc2a56ccc4a9caf541ef09c26159b3e4638dab55af2b490dc356b"
+    },
+    {
+      "path": "tests/book-browser.cjs",
+      "bytes": 21550,
+      "sha256": "40a18a446305dbde0e9a3bbb71ae7f69d2be21e4344a9d5df6c4a143101aec37"
+    },
+    {
+      "path": "tests/book.test.cjs",
+      "bytes": 9542,
+      "sha256": "e3db87d0d4343c9393a12ee3be47045ca8b927ad2645dcbe99177d181c823443"
+    },
+    {
+      "path": "tests/browser.cjs",
+      "bytes": 20973,
+      "sha256": "f26eb016d8a42a9c6be5ff055fa09bebd79863199d3c26c60686b378e0406113"
+    },
+    {
+      "path": "tests/core.test.cjs",
+      "bytes": 6259,
+      "sha256": "4bdf8b6820a8b8c138a750d141bc84a63878a9cc0009bb30cbfecfffccc492ce"
+    },
+    {
+      "path": "tests/landing-browser.cjs",
+      "bytes": 15253,
+      "sha256": "cdd446563807c0e2117b90d4c3400baffc89340f2c448c633ec714f71894ec2c"
+    },
+    {
+      "path": "tests/verify-exports.py",
+      "bytes": 2316,
+      "sha256": "d84098af70c17d0b3e1f84eca04a91c8bfd5e752644b04ad53bc6a354be67071"
+    }
+  ]
+}

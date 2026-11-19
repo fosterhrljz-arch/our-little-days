@@ -1,0 +1,30 @@
+{
+  "browser": "chrome",
+  "offline": true,
+  "count": 21,
+  "passed": [
+    "direct-file app opens offline with four demo memories and decoded local photos",
+    "all five sections render with active navigation and no desktop overflow",
+    "memory detail browses multiple photos and Escape restores focus",
+    "new memory requires photos; real upload accepts two images and saves",
+    "reload retains memory photos and note in IndexedDB",
+    "edit memory, reorder/remove photos, and render markup as text",
+    "memory sort changes the real card order",
+    "anniversary create, today countdown, edit, and delete are real",
+    "settings update names, start date, and a real custom cover",
+    "backup download contains portable embedded photos and complete project data",
+    "Memory Book generates editable pages from selected memories",
+    "malformed backup and invalid image leave saved state unchanged",
+    "restore cancellation preserves edits, confirmation restores names and uploaded photos",
+    "simulated save failure shows an error and does not replace stored data",
+    "concurrent-window conflict cannot silently overwrite a newer save",
+    "deleting a selected memory removes it from collections and survives reload",
+    "empty-memory states remain usable and book generation needs a selection",
+    "all sections fit phone and tablet viewports without horizontal overflow",
+    "long names, titles, and notes stay contained on a small phone",
+    "browser restart retains the saved book without internet",
+    "runtime is free of app console errors and external requests"
+  ],
+  "errors": [],
+  "externalRequests": []
+}
